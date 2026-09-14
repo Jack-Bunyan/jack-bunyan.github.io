@@ -42,9 +42,9 @@ The early use of BNCT ([Professor William H. Sweet](https://www.upi.com/Archives
 
 The failure of these trials were likely a result of two components, first is the lack of specificity of the boronic compounds, with significant build-up in the blood and brain, while the dose contribution from the fast neutrons and gamma emissions from the the neutron source, a nuclear reactor.
 
-After the shutdown of BNCT work in the US the majority of boron therapy research was conducted in Japan(Hiroshi Hatanaka), this was done using a synthesised compound rather than the previously used boronic acid.  This has a sulfhydryl group which is expects to bind well to tumours.  Use of this compound in Glioblastoma patients was very successful, though the technology available meant that there was a limitation to only 6cm depth tumours., with key findings of Hatanaka's work being that the neutron delivery system required improvement.  With deuterium water potentially being used to increase the treatable depths.
+After the shutdown of BNCT work in the US the majority of boron therapy research was conducted in Japan(Hiroshi Hatanaka), this was done using a synthesised compound rather than the previously used boronic acid.  This has a sulfhydryl group which is expects to bind well to tumours.  Use of this compound in Glioblastoma patients was very successful, though the technology available meant that there was a limitation to only 6cm depth tumours, with key findings of Hatanaka's work being that the neutron delivery system required improvement.  With deuterium water potentially being used to increase the treatable depths.
 
->"An important progress in this period however was the realization that BNCT as
+>"An important progress in this period however was the realization \[sic\] that BNCT as
 a novel tumor therapy should follow the normal procedures of evidence-based med-
 icine. " >>>>wut
 
