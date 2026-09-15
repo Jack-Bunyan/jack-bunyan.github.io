@@ -33,5 +33,5 @@ During his project, ICT created a single preset that was optimised for our mediu
 - WHAT IS THE TARGET?!?
 - Please let us increase the mAs range.
 - Just use the mammo system.
-- Ask Varian how they do it on planar, they own you.
+- Ask Siemiens how they do it on planar, they own you.
 - Please?
