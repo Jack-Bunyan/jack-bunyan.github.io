@@ -11,7 +11,7 @@ AEC is a technology that has been around within diagnostic radiology since the 5
 Since [[Truebeam]] v3 there has been the capability of adding AEC to true-beam kv imaging.  While v4 has provided options for using it with [[Halcyon]] systems.  If clinically usable, it could make the scanning process on-set more efficient, reducing the number of [[Radiotherapy]] [[Incidents]]; potentially improve image quality on a patient-by-patient basis; and reduce administrative overhead.
 
 ICT spent his masters project investigating this technology, intending to replace our 4 (small, medium, large, extra large) presets with just 1.  This was somewhat hampered by the way in which it controls the exposure.  This system is broadly mapped out below, and is most closely analogous to a [[mammography]] system:
-![[Varian AEC flowchart v3.png]]
+![[Varian AEC flow-chart v4.png]]
 
 The main inputs that the user has on this process are the kV, mAS and the "Target".  the kV alters the kV of the [[X-ray Tube]] in the same was as in a typical [[Planar X-ray]] system.  However, mAs is slightly different.  This determines both the minimum and maximum exposure that is used by the system.
 
