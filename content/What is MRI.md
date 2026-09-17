@@ -3,6 +3,8 @@ title: What is MRI
 tags:
   - Physics
   - Imaging
+aliases:
+  - MRI
 ---
 > Special thanks to David for answering all my annoying questions
 

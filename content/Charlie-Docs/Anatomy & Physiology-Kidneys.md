@@ -5,6 +5,7 @@ tags:
   - Anatomy
   - CB_Notion
 ---
+![[Pasted image 20260917145107.png]]
 The kidneys are two bean shaped organs below the liver, with the liver itself pushing the right hand kidney to be slight lower than the left.  They are typically surrounded by perirenal fat providing a protective layer.
 
 ## Kidney Structure

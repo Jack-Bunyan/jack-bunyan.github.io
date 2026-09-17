@@ -50,7 +50,7 @@ Uptake mechanisms for both tetrafosmin and MiBi are the same, utilising the high
     - the positively charged lipophilic molecule is attracted to the negatively charged mitochondria where it becomes bound
         - biological half-life of the heart is ~3 hours after administration
 - Myocardial uptake is prompt, and blood clearance is rapid due to renal and hepatic excretion.
-    - [[liver]] and [[gallbladder]] activity is seen within 1 hour of injection
+    - [[Liver]] and [[gallbladder]] activity is seen within 1 hour of injection
         - biological half-life of the liver is ~30 minutes after administration
     - ~27% of injected dose is excreted in urine
     - ~33% of injected dose is excreted through faeces within 48 hours
