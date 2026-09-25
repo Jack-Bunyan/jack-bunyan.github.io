@@ -5,6 +5,7 @@ tags:
   - Imaging
 aliases:
   - MRI
+permalink: MRI
 ---
 > Special thanks to David for answering all my annoying questions
 
