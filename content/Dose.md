@@ -11,7 +11,6 @@ Absorbed dose describes the absorbed-energy "density" of a material, with units 
 
 Measurements of dose are taken in [[Radiotherapy]] using various different [[Chambers]], these measure the ionisation of the air as a current between two conductors, and convert this to a measurement of the dose in air.  It can be modelled 
 
-
 # Equivalent Dose
 Equivalent Dose is a a metric that is used to convert from the energy dose deposition that is measured using physical instruments, into one that takes into account the does deposition mechanisms in tissue.  They are normalised against the biological effectiveness of photons having a radiation weighting factor ($\omega_r$) of 1.  Heavier particles such as protons or heavy ions have larger values of $\omega_r$.  This increases their effect within [[Hypoxic]] environments and is one of the advantages of [[Proton Therapy]] compared to photons.  While measured using the same units (Jkg$^{-1}$) as absorbed dose, both equivalent and effective dose use the units of sieverts rather than grays.
 
