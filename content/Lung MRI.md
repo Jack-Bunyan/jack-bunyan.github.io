@@ -15,7 +15,7 @@ During specialism a patient with a [[lungs#Oncology|Squamous Cell Carcinoma]] wa
 - T2 fat-suppressed TSE
 There are designed to be fast to acquire to reduce the motion sensitivity of the scan.
 
-While tragically all of these are anatomical imaging methods, the navigator scan is still pretty cool!
+While tragically all of these are anatomical imaging methods, the navigator scan is still pretty cool! 
 
 # Literature
 
@@ -24,6 +24,12 @@ MRI of the lung has the typical advantages that are discussed alongside MRI, the
 Despite all of these benefits the use of lung MRI is still uncommon, this is due to the combination of motion—made worse by its proximity of the heart—and the density (or lack thereof)—which leads to low signal generation.  With the number of air-tissue boundaries making this even worse, with exceptionally fast de-phasing of the spins.  Luckily, in most cases, pathologies of the lung are associated with masses within them, which would make them easier to pick out against the low-signal background of healthy lung tissue; though, small legions will still be unclear due to the motion sensitivity of the lung.
 
 The approach to handling these issues are similar to the methods used for [[Anatomy & Physiology-Heart|Cardiac]] Imaging, with gating and faster imaging.  In MRI, the use of pneumatic belts is the historic method for the gating of images; this allows the data that is collected by the sequence to be grouped only with data from a similar position, potentially creating 4D images.  In CT this would be done to only expose during the acquisition, in MRI given the lack of harm associated with additional "exposure"—other than potential SAR effects.  
+
+# Locally
+Of the 4 sequences that were tested on my we were somewhat happy with the imaging in the apical region, though there was a lot of motion artefacts in other areas of the lung.  Due to my irregular breathing (woops), the navigator scans struggled with the motion.  This seemed to be a result of the navigator triggering the imaging to begin before I had finished exhaling, resulting in a lot of motion artefacts.  It doesn't seem like the imaging that is done to gate these images is saved, so it is difficult to do proper analysis of this.
+![[Pasted image 20261001161253.png|700]]
+
+>I need to work on my meditation.
 
 
 Title: [MRI of the Lung](https://link.springer.com/10.1007/978-3-319-42617-4)
