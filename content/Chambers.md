@@ -11,7 +11,7 @@ There are several different designs for chambers to detect radiation, with the m
 >Radiation+Particle=Ionisation
 
 Chambers don't directly measure the [[Dose]] that is at a given point, instead what they measure is the quantity of ionisations that occur within the chamber.  By applying a voltage across the chambers, the amount of charge can be measured.  The response of a chamber varies greatly with the voltage that was applied across it.
-![[Pasted image 20261001123145.png]]
+![[detector voltage graph.png]]
 Title: [Operating regions of gaseous ionisation detectors | Radiology Case | Radiopaedia.org](https://radiopaedia.org/cases/operating-regions-of-gaseous-ionisation-detectors)
 Authors: Siang Ching Raymond Chieng
 Year: 

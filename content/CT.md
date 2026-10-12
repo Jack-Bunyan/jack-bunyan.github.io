@@ -66,6 +66,8 @@ An important aspect to consider during dose optimisation is the penumbra of the 
 Gating of imaging is an important aspect of imaging, by separating frames of an image by their location within a periodic process e.g. heart beats of breaths.  This can be done through very low pitches to acquire a large amount of data from each of the axial slices, or through an axial scan (0 pitch).
 
 In radiotherapy we typically use [i4DCT](https://pubmed.ncbi.nlm.nih.gov/32115724/) algorithms for our 4D acquisitions, this is an axial acquisition procedure which predicts the breathing trace of the patient, acquiring for sufficient time to create a 4D acquisition image, optimising the dose to the patient while still capturing sufficient detail.
+
+This gating can be done using various different technologies, in [[MRI|MRI]] I experienced using a bellows which is a physical bar which is moved. In Radiotherapy CT we frequently use a marker block that is placed on the patient and is tracked during the process.  Some systems can use internal structures such as the diaphragm ([[Lung MRI]]).  This can be binned wither using the phase of the breathing cycle or the amplitude, there are arguments for both of these but typically phase gating is seen as the better choice due to resistance to unstable breathing traces.
 ## CBCT
 
 ## Photon-Counting

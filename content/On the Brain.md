@@ -40,7 +40,7 @@ The corpus callosum joins the two hemispheres of the brain, allowing them to com
 | ![[hypothalamus from uni.png]]                                                                                                                                                                                                                                                                                                                                                                                         | Hypothalamus lies below the thalamus, it regulates a large amount of functions and links to the hormonal pituitary.<br><br>The pituitary itself is a tiny structure that sits in a bony hole of the sphenoid that controls:<br><ul><br><li>Growth and Metabolism<br><li>Blood pressure<br><li>Pregnancy and Childbirth<br><li>Thyroid gland<br><li>Water and osmolarity regulation<br></ul> |
 
 The pons attaches the cerebellum to the rest of the brain it is made up of highly folded grey matter, it co-ordinates movement and balance as well as modulating cognitive functions.
-# Blood
+# [[On Blood|Blood]]
 The most important feature of the brain's arterial structure is the circle of willis cause its funny.
 ![[circle of willis uni.png]]
 
@@ -48,3 +48,7 @@ The ventricular system of the brain contains CNS, the walls of these ventricles 
 ![[blood drainage.png]]
 
 The blood brain barrier maintains selective diffusion of molecules from the blood into the brain.  While glucose and oxygen can perfuse easily, larger molecules require specific active transporters, this prevents toxins and disease getting into the brain.  Contrast enhancement may indicate contrast enhancement, whilst radiopharmaceutical distribution is affected by the integrity of the barrier.
+
+# Imaging
+The brain is one of the key areas where [[MRI]] is a key front-line treatment, its high soft tissue contrast when compared to [[CT]] allows the delineation of different regions of the brain for [[Radiotherapy]] treatments.  
+Although the blood-brain barrier is a key aspect of the brain's [[Immune System]] the

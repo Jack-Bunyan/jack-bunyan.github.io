@@ -27,7 +27,7 @@ The approach to handling these issues are similar to the methods used for [[Anat
 
 # Locally
 Of the 4 sequences that were tested on my we were somewhat happy with the imaging in the apical region, though there was a lot of motion artefacts in other areas of the lung.  Due to my irregular breathing (woops), the navigator scans struggled with the motion.  This seemed to be a result of the navigator triggering the imaging to begin before I had finished exhaling, resulting in a lot of motion artefacts.  It doesn't seem like the imaging that is done to gate these images is saved, so it is difficult to do proper analysis of this.
-![[Pasted image 20261001161253.png|700]]
+![[mri lung of me probably.png|700]]
 
 >I need to work on my meditation.
 
