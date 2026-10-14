@@ -44,7 +44,20 @@ While TPS systems have made it easier to visualise a reference point, it is impo
 3) Inverse Planning
 4) *Specialist techniques*
 
+## Forward Planning
+Technically these uni notes are from [[Dose Calcs-UN 14-10-2026|The Day After]] but they fit better here tbh.
+
+Forward planning is a technique where we adjust the parameters to adjust the dose, and continue to vary the plan until it meets the objectives.  It is a bit fiddly but also a very simple method.  This becomes more complex as the planning technique becomes more advanced, for example, by varying the positions of the [[MLC]]s during delivery of the beam we can Vary the Intensity of the beam (IMRT).  Step-and-Shoot can also be used by turning off the beam between MLC shifts but this kind of sucks and would be silly to use.
+## Inverse Planning
+Inverse planning works in reverse, providing a list of conditions that want to be met for different organs, and then using algorithms to gradually discover an optimal solution.  This allows more complex plans such as Dynamic Delivery (DMLC) and Volumetric Modulated Arc Therapy (VMAT).  VMAT alters the position of the leaves, the dose rate, and the position of the rotation speed; this provides far more degrees of freedom.
+
+The downside of VMAT is that while the therapeutic dose is more conformal there is a larger dose bath to healthy tissue.  VMAT does potentially require more work in other areas of the treatment process, such as increasing the number of contours that need to be created, as well as establishing dose targets for each of the structures that wants to be considered during planning.
+
+This optimisation is done my minimise a cost function that represents how "bad" a plan is, gradually aiming to reach an optimal solution.  Ideas such as normal tissue optimisation are used to just generally lower dose outside of the PTV
+
+In some cases a site will have a class solution, this will give a template of objectives that may allow for quicker optimisation with less required alteration of goals.  Similarly Knowledge based plans such as RapidPlan estimates what the achievable clinical plan will be.
 # Dose Distribution
+Back to today
 ![[Pasted image 20261013093831.png]]
 This might be important to know/ have a general vibes for. 
 
@@ -77,7 +90,7 @@ I should look into [Space OAR](https://www.spaceoar.com/us/en/home.html) Which i
 - atlanta
 - pivotalboost
 
-
+Could be worth considering that a more conformal plan will be more fragile with variation in the position of the patients, if you had a "perfect" plan that dropped immediately outside of the PTV, any shift could have large impact.
 
 # Clinical Evaluation: Brain
 
