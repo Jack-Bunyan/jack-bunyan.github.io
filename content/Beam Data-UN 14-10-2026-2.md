@@ -52,3 +52,31 @@ It is quite a big lad.  Typically done on its own stand due to this to avoid loa
 
 > Use of the shadow of the [[Chambers|Chamber]] on the bottom of the tank to check for setup errors.
 
+
+---
+
+## Learning Outcomes
+- What data you wish to validate
+- Appropriate validation Methods
+- Required data
+
+---
+
+# New Beam
+1) collect beam data
+2) give beam data to TPS
+3) create a plan
+4) measure a plan
+
+If there is a new machine of the same model then the old beam-data can be used to create the initial plans and compare against.  Ideally machines have identical beam-models as this allows the switching of patient between different machines.  Need to define how to compare between these, gamma analysis?
+
+
+Title: [Tolerances for the accuracy of photon beam dose calculations of treatment planning systems](https://www.sciencedirect.com/science/article/pii/S0167814001003772)
+Authors: Jack Venselaar, Hans Welleweerd, Ben Mijnheer
+Year: 2001
+DOI: 10.1016/S0167-8140(01)00377-2
+
+# Testing
+Once it is confirmed that the Beam Model (including [[MLC]]s) has been created and seems accurate for simple plans you can gradually increase the complexity of the testing.  Methods such as film, or EPID panels can help confirm how the testing works.
+
+What sort of testing can be established via risk assessments, look at IPEM 81 and task and finish groups.

@@ -59,7 +59,7 @@ While liver cancer is a frequent location for metastatic spread, being 25% of al
 
 ## Treatments
 
-Radical treatments for liver cancer include resection, transplantation, ablation, and systemic methods.  Radiotherapy is only used as an ablative treatment for patients who are not suitable for surgery, with [[SABR]] being used for small tumours and Selective Internal Radiation Therapy [[SIRT]] for larger ones.  Radiotherapy is also used in later stage patients as a palliative measure.
+Radical treatments for liver cancer include resection, transplantation, ablation, and systemic methods.  Radiotherapy is only used as an ablative treatment for patients who are not suitable for surgery, with [[SABR -UN 16-10-2026]] being used for small tumours and Selective Internal Radiation Therapy [[SIRT]] for larger ones.  Radiotherapy is also used in later stage patients as a palliative measure.
 
 
 

@@ -46,7 +46,7 @@ Patients with breast cancer uniquely use an inclined setup for their scan and tr
 # Patient Preparation
 This is most often used for pelvic patients where the rectum and the bladder are close to the PTV, this is most commonly done in either empty, or full bladder.  Full bladder is a more classical approach to patient preparation, pushing the rectum away from the prostate (reducing dose).  However this can be more difficult to replicate, and especially in longer fractionations will become more difficult to hold during the end of treatments.  Empty filling regimes are of interest (e.g. EMPTY-RT trial), as they could improve patient throughput and comfort, but these do seem to increase organ dose.
 
-Gas within the rectum can have a major impact on the patient's dosimetry, and if there is gas present in the rectum, the patient will often be encouraged to come back in a bit.  Movement of the digestive tract during treatment will also move the prostate as I saw during some work on prostate [[SABR]].
+Gas within the rectum can have a major impact on the patient's dosimetry, and if there is gas present in the rectum, the patient will often be encouraged to come back in a bit.  Movement of the digestive tract during treatment will also move the prostate as I saw during some work on prostate [[SABR -UN 16-10-2026]].
 
 For many sites within the abdomen, a fasting preparation technique will be used as movement of the stomach will be significant.
 

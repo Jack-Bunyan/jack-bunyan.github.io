@@ -58,3 +58,40 @@ The ion-recombination factor corrects for the loss of charge due to the recombin
 
 The ion-recombination factor for beam can be calculated using the two-voltage method.  Ideally this should be done with a voltage ratio of greater than 3.
 $$k_{ion}=1+\frac{(M_1/M_2)-1}{(V_1/V_2)-1}$$
+
+
+# How to Choose?
+- High accuracy and precision
+- linear response
+- negligible rate dependance
+- flat energy response
+- high spatial accuracy
+- large dynamic range
+- minimal "stem leakage"
+- minimal re-combination loss
+- stable
+- cheap
+
+![[Pasted image 20261015090921.png]]
+The farmer chamber and roos chamber are the most frequent field chambers that are used for output measurements, they have larger volumes but are
+
+Silicon diodes can be denser so harden the beam, this increases back scatter compared to an air or water filled chamber.  Also more dependance on the lower energies, this is made worse at lower depths and with flattened beams as they have more head scatter?!?!
+
+Diodes have no difference between measurement of depth ionisation and depth deposition.  But may have an energy dependence.  They do degrade with incident radiation though, so are limited lifetime compared to ionisation chambers which can be ooollllld.
+
+Micro-diamond is the bestest.
+
+>In flattened beams there is typically more head scatter, bathtub graph?
+
+For all chambers there will be slight disagreement between the location of the chamber and the location of measurement, this is due to the fact it is displacing water equivalent material with something that is not water equivalent (air).  For cylindrical ionisation chambers this is approximately 0.6x the radius.
+
+The size of a chamber can have effects on the output measurements for small fields, as there is no longer a small field.  These small fields are dominated by the electron electrons, this makes it very important to capture the contribution of kV photons.  At these sizes an ionisation chamber will just be too big.
+
+## Measurement
+
+Collection of beam data can be either continuous or stepped.  It is more important to collect data in steam regions such as the build-up region of photons, as noise will have a greater effect in these highly variable regions.  Many different ways of smoothing data to reduce noise.
+
+
+
+# Dose vs Ionisation
+The primary deliverer of dose is electrons, in electron beams due to the variation of the energy deposition depending on the energy of the incident particles there is a difference between depth ionisation and depth dose.

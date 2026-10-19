@@ -98,3 +98,44 @@ d50=4x
 d10=5x
 
 Counting is hard.
+
+
+---
+# Seminar Calcs
+
+>$$Dose=MU\times PDD\times S_{cp}\times \text{(inverse square)}$$
+
+Correction for SSD at d_max
+
+$$\times \left(\frac{100+d_{max}}{SSD_2+d_{max}}\right)^2$$
+
+Which is a special case of the correction for SSD at all points:
+>$$PDD(SSD_2,FS,d) = PDD(SSD_1, FS,d)\times \left[\frac{(SSD_2+d_{max})(SSD_1+d)}{(SSD_1+d_{max})(SSD_2+d)}\right]$$
+
+Equivalent square correction ($S_{cp}$) for rectangles can be calculated as:
+$$ES=\frac{4\times Area}{Perimeter}=\frac{2\cdot XY}{X+Y}$$
+
+## Example 1
+- 6cm deep:read off table
+- 10x10: 1.00 correction
+- 6MV
+- 100cm SSD: 1.00 correction
+- 200 MU
+
+ergo
+$$Dose=200\times1\times 0.821\times 1 = 164.2cGy$$
+## Example 2
+- 5cm deep: read off table
+- 6.3x11cm field : correction
+- 6MV
+- 90cm SSD: correction
+- 300MU
+
+this is a worst case scenario
+
+1) find the equivelant square
+	- $=\frac{2*6.3*11}{6.3+11}=8$
+2) Read off PDD: 0.857
+3) Correct PDD for SSD
+	- $0.857\times\frac{(90+1.6)(100+5)}{(100+1.6)(90+5)}=0.993$
+	

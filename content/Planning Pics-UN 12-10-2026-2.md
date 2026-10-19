@@ -77,6 +77,8 @@ Also [[BOLD]] and [[Tractography]] are cool fMRI scans for the brain.  While MRI
 # Look-up tables
 These are what are used to take the values recorded within a matrix, and convert them to a visual representation, most obviously this can be for converting from a measured CT number to a grey value.  They are also used for the conversion between HU and stopping power/density.
 
+Use of phantoms such as a CatPhan are important to ensure that the measurements of HU are accurate, as without this the [[Beam Data-UN 14-10-2026-2|Dose distribution]] of the plan will be inaccurate.
+
 # Registration
 The process of matching two image such that a geometric co-ordinate in one of them matches with the same geometric location in the other.  This is especially important if using the combined information e.g. if contouring using a PET scan, then planning using a separate CT scan, or with an MRI and CT scan respectively.
 
