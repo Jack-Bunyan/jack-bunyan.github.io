@@ -65,17 +65,17 @@ Upon looking at the structure of the brachy sources that we use, I believe that 
 May be worth re-approaching this once I have done more work with Monte Carlo simulations.  However, clinical importance of this relationship at low distances—which we are most interested in theoretically—is low due to the dominance of the geometric reduction in dose.
 
 ---
-Title: [Dosimetry of interstitial brachytherapy sources: recommendations of the AAPM Radiation Therapy Committee Task Group No. 43. American Association of Physicists in Medicine]()
+Title: [Dosimetry of interstitial brachytherapy sources: recommendations of the AAPM Radiation Therapy Committee Task Group No. 43. American Association of Physicists in Medicine](http://www.ncbi.nlm.nih.gov/pubmed/7565352)
 Authors: R. Nath, L. L. Anderson, G. Luxton, K. A. Weaver, J. F. Williamson, A. S. Meigooni
 Year: 1995
 DOI: 10.1118/1.597458
 
-Title: [Handbook of Radiotherapy Physics: Theory and Practice]()
+Title: Handbook of Radiotherapy Physics: Theory and Practice
 Authors: 
 Year: 2007
 DOI: 10.1201/9781420012026
 
-Title: [Dose Calculation for Photon-Emitting Brachytherapy Sources with Average Energy Higher than 50 keV: Full Report of the AAPM and ESTRO]()
+Title: [Dose Calculation for Photon-Emitting Brachytherapy Sources with Average Energy Higher than 50 keV: Full Report of the AAPM and ESTRO](https://www.aapm.org/pubs/reports/RPT_229_full.pdf)
 Authors: 
 Year: 
 DOI: 

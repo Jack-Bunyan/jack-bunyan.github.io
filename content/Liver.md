@@ -12,7 +12,7 @@ The liver contains 2 [[cells]] which are unique to the liver, these are the hepa
 
 Biliary cells, on the other hand, are responsible for lining the bile ducts of the liver, both within (intrahepatic) and without (extreahepatic).  They have a vital role in the repair and immunologic aspects of the system.
 
-Title: [The liver biology and pathobiology]()
+Title: [The liver biology and pathobiology](https://www.wiley.com/en-gb/the-liver-biology-and-pathobiology-6th-edition-p-9781119436836)
 Authors: Irwin M. Arias
 Year: 2020
 DOI: 
@@ -63,7 +63,7 @@ Radical treatments for liver cancer include resection, transplantation, ablation
 
 
 
-Title: [Devita, Hellman, and Rosenberg’s Cancer: Principles and Practice of Oncology, 11e]()
+Title: Devita, Hellman, and Rosenberg’s Cancer: Principles and Practice of Oncology, 11e
 Authors: Vincent T. DeVita
 Year: 2019
 

@@ -61,7 +61,7 @@ Uptake mechanisms for both tetrafosmin and MiBi are the same, utilising the high
 Thallium-201 is a synthetic radio-isotope with a half-life of 3.04 days, it decays via [[Decay Events#Electron Capture|Electron Capture]] into mercury.
 ![[thalliun decay graph.png]]Whilst the decay itself produces characteristic x-rays of 160keV(10%) and 135keV(2.6%), the emissions that are used for the imaging are the characteristic x-rays of the mercury it decays into when the electrons drop into the lower orbital shells left over from the electron absorption.
 ![[Emissons graph Ti-201.png]].
-Title: [Optimum energy window setting on Hg-201 x-rays photopeak for effective Tl-201 imaging]()
+Title: [Optimum energy window setting on Hg-201 x-rays photopeak for effective Tl-201 imaging](https://www.researchgate.net/profile/Akihiro-Takaki/publication/7406267_Optimum_energy_window_setting_on_Hg-201_x-rays_photopeak_for_effective_Tl-201_imaging/links/0f31752fc043d58785000000/Optimum-energy-window-setting-on-Hg-201-x-rays-photopeak-for-effective-Tl-201-imaging.pdf)
 Authors: Akihiro Kojima, Akihiro Takaki, Teruya Noguchi, Masanori Matsumoto, Noboru Katsuda, Seiji Tomiguchi, Yasuyuki Yamashita
 Year: 2005
 DOI: 10.1007/BF02985046
@@ -80,7 +80,7 @@ Authors:
 Year: 
 DOI: 
 
-Title: [The extraction of thallium-201 by the myocardium]()
+Title: [The extraction of thallium-201 by the myocardium](http://www.ncbi.nlm.nih.gov/pubmed/872309)
 Authors: H. F. Weich, H. W. Strauss, B. Pitt
 Year: 1977
 DOI: 10.1161/01.cir.56.2.188
@@ -242,7 +242,7 @@ Authors:
 Year: 
 DOI: 
 
-Title: [EANM procedural guidelines for radionuclide myocardial perfusion imaging with SPECT and SPECT/CT: 2015 revision]()
+Title: [EANM procedural guidelines for radionuclide myocardial perfusion imaging with SPECT and SPECT/CT: 2015 revision](https://link.springer.com/content/pdf/10.1007/s00259-015-3139-x.pdf)
 Authors: Hein J. Verberne, Wanda Acampa, Constantinos Anagnostopoulos, Jim Ballinger, Frank Bengel, Pieter De Bondt, Ronny R. Buechel, Alberto Cuocolo, Berthe L. F. Eck-Smit, Albert Flotats, Marcus Hacker, Cecilia Hindorf, Philip A. Kaufmann, Oliver Lindner, Michael Ljungberg, Markus Lonsdale, Alain Manrique, David Minarik, Arthur J. H. A. Scholte, Riemer H. J. A. Slart, Elin Trägårdh, Tim C. Wit, Birger Hesse, undefined undefined
 Year: 2015
 DOI: 10.1007/s00259-015-3139-x

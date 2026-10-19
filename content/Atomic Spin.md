@@ -31,7 +31,7 @@ This de-excitation of the spins from a spin-down to a spin-up state within the v
 >$$M_z(t)=M_0(1-e^{-t/T_1})$$
 
 ![[T1 relaxaiosn.png]]
-Title: [A review of normal tissue hydrogen NMR relaxation times and relaxation mechanisms from 1-100 MHz: dependence on tissue type, NMR frequency, temperature, species, excision, and age]()
+Title: [A review of normal tissue hydrogen NMR relaxation times and relaxation mechanisms from 1-100 MHz: dependence on tissue type, NMR frequency, temperature, species, excision, and age](https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.595535)
 Authors: P. A. Bottomley, T. H. Foster, R. E. Argersinger, L. M. Pfeifer
 Year: 1984
 DOI: 10.1118/1.595535

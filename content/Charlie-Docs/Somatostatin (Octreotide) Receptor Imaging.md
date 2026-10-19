@@ -43,7 +43,7 @@ DOI: 10.3390/molecules25174012
 ![[Somato flowchart.png]]
 *Chemical structure of 99mTc-HYNIC-TOC (a.k.a Tektrotyd). Section 1 (top)) HYNIC portion of the structure containing the active ingredient, Octreotide (the Octreotide bind with the SSTRs). Section 2 (bottom)) Ethylenediamine-N,N’-diacetic acid (EDDA), containing the radioactivity, Tc99m (this section is a ligand connecting active ingredient and radioactivity).*
 
-> Compared to Octreoscan, [99mTc]-EDDA/HYNIC-TOC showed better accumulation in the tumor and a weaker accumulation in the kidneys. The improved spatial resolution, the reduction in the radiation dose received by the patient and the better availability of 99mTc
+> Compared to Octreoscan, [[Tc99m]]-EDDA/HYNIC-TOC showed better accumulation in the tumor and a weaker accumulation in the kidneys. The improved spatial resolution, the reduction in the radiation dose received by the patient and the better availability of 99mTc
 
 - After intravenous administration, 99mTc-Tektrotyd is rapidly eliminated from the blood.
 - Tektrotyd has high affinity to SSTR2, and lower to SSTR3 and SSTR5 ([Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8193811/)).
@@ -165,12 +165,12 @@ Authors: Mayank Kapoor, Anup Kasi
 Year: 2026
 DOI: 
 
-Title: [99mTc-Hynic-TOC imaging in the diagnostic of neuroendocrine tumors]()
+Title: [99mTc-Hynic-TOC imaging in the diagnostic of neuroendocrine tumors](https://www.thieme-connect.de/products/ejournals/pdf/10.4103/wjnm.WJNM_41_17.pdf)
 Authors: Knut Liepe, Andreas Becker
 Year: 2018
 DOI: 10.4103/wjnm.WJNM_41_17
 
-Title: [99mTc-EDDA/HYNIC-TOC is a New Opportunity in Neuroendocrine Tumors of the Lung (and in other Malignant and Benign Pulmonary Diseases)]()
+Title: [99mTc-EDDA/HYNIC-TOC is a New Opportunity in Neuroendocrine Tumors of the Lung (and in other Malignant and Benign Pulmonary Diseases)](https://www.thieme-connect.de/products/ejournals/pdf/10.4103/wjnm.WJNM_41_17.pdf)
 Authors: Vittorio Briganti, Vincenzo Cuccurullo, Valentina Berti, Giuseppe D. Di Stasio, Flavia Linguanti, Francesco Mungai, Luigi Mansi
 Year: 2020
 DOI: 10.2174/1874471013666191230143610

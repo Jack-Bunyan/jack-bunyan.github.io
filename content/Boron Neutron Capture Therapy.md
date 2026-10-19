@@ -73,7 +73,7 @@ Authors: H. Hatanaka
 Year: 1990
 DOI: 10.1007/978-1-4684-5802-2_2
 
-Title: [Advances in Boron Neutron Capture Therapy]()
+Title: [Advances in Boron Neutron Capture Therapy](https://www.researchgate.net/profile/Ming-Pan-7/publication/371500316_Advances_in_Boron_Neutron_Capture_Therapy/links/6493128fb9ed6874a5c565fe/Advances-in-Boron-Neutron-Capture-Therapy.pdf)
 Authors: Mansoor Ahmed, Diego Alberti, Saverio Altieri, Asano T., Iiro Auterinen, Roberto Bedogni, Oleg Belyakov, Clément Besnard-Vauterin, Silva Bortolussi, Benoit Busser, Jacek Capala, Chen Y.-W, Fong-In Chou, Ciraj O., Cruikshanck G., Alejandra Dagrosa, Annamaria Deagostino, Simonetta Geninatti Crich, Francesco Giammarile, Tsuchida K.
 Year: 2023
 DOI: 

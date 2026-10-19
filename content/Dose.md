@@ -35,7 +35,7 @@ We currently model that a mSv of effective dose puts a person at a 1/20,000 risk
 # Deterministic 
 
 
-Title: [The 2007 Recommendations of the International Commission on Radiological Protection. ICRP publication 103]()
+Title: [The 2007 Recommendations of the International Commission on Radiological Protection. ICRP publication 103](http://www.ncbi.nlm.nih.gov/pubmed/18082557)
 Authors: 
 Year: 2007
 DOI: 10.1016/j.icrp.2007.10.003

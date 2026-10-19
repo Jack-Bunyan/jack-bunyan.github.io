@@ -149,7 +149,7 @@ Example of a patient that swallowed the gas instead of breathing it in, leading 
 
 ---
 
-Title: [Please read the whole of this document before using SmartVent™]()
+Title: [Please read the whole of this document before using SmartVent™](https://file.notion.com/f/f/045ecbdf-5b8b-4421-94e4-b1947b03aee0/b9ddcac8-9ac3-425d-a565-1b0e6eca3452/SmartVent_Manual_(2009).pdf?table=block&id=1fb9796f-42ba-4bb4-958d-3a36f15e8139&spaceId=045ecbdf-5b8b-4421-94e4-b1947b03aee0&expirationTimestamp=1785254400000&signature=woGXI5C2kPAkGPIScYkwnuqkl6Uo8ww-Owl2WrYdzA8&downloadName=SmartVent+Manual+%282009%29.pdf)
 Authors: Elkington Lodge
 Year: 
 DOI: 
@@ -166,7 +166,7 @@ Year: 2010
 DOI: 10.2967/jnumed.109.073957
 
 
-Title: [Diagnostic Imaging Limited]()
+Title: [Diagnostic Imaging Limited](https://file.notion.com/f/f/045ecbdf-5b8b-4421-94e4-b1947b03aee0/48b7f4b4-1147-43ee-ad86-b0470331ca7a/SmartVent_Brochure_(2005).pdf?table=block&id=1fb9796f-42ba-4bb4-958d-3a36f15e8139&spaceId=045ecbdf-5b8b-4421-94e4-b1947b03aee0&expirationTimestamp=1785254400000&signature=zXlPBFCqr4e4jhAUJICnm9poVOFpp8UHQG8tYbnd7bI&downloadName=SmartVent+Brochure+%282005%29.pdf)
 Authors: Elkington Lodge
 Year: 
 DOI: 

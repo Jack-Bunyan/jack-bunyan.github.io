@@ -66,7 +66,7 @@ Furosemide discriminates between an obstructed kidney and a normal one.
 
 
 ---
-Title: [Tubular Reabsorption of Technetium-99m-DMSA]()
+Title: [Tubular Reabsorption of Technetium-99m-DMSA](https://file.notion.com/f/f/045ecbdf-5b8b-4421-94e4-b1947b03aee0/ffd7023e-c65c-4235-ac7e-74b722726f5b/1654.full.pdf?table=block&id=7d60e90c-ffd4-4389-a385-70a37a3e3f06&spaceId=045ecbdf-5b8b-4421-94e4-b1947b03aee0&expirationTimestamp=1784930400000&signature=KAVDrfZYHyOGaU2JqzDPLj83qbjUGFEWTKa-gLfIM9w&downloadName=Tubular+Reabsorption+of+Technetium-99m-DMSA.pdf)
 Authors: Roland Mã
 Year: 
 DOI: 
