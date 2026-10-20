@@ -30,7 +30,7 @@ This treatment is [reccomended by NICE](https://www.nice.org.uk/guidance/ta412/d
 ## Dose
 The prescribed activity of Radium to a patient is 55kBq/kg of body weight, prescribed by an oncologist, this is delivered every 4 weeks throughout the course of a treatment, typically receiving 6 fractions.
 ## Patient Preparation
-Since Radium is a bone-seeking agent that will be proximal to the [[Anatomy & Physiology-Bone & Skeleton#Marrow|Bone Marrow]] where the blood cells are produced, blood tests are a vital part of treatment.  These tests ensure that the treatment is not damaging the formation of blood cells which will have an impact on the immune system and oxygen transport.
+Since Radium is a bone-seeking agent that will be proximal to the [[Bone#Marrow|Bone Marrow]] where the blood cells are produced, blood tests are a vital part of treatment.  These tests ensure that the treatment is not damaging the formation of blood cells which will have an impact on the immune system and oxygen transport.
 
 |                                | Baseline Values         | Values Before Non-first Treatments |
 | ------------------------------ | ----------------------- | ---------------------------------- |

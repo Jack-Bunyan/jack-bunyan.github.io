@@ -27,7 +27,7 @@ The Epiphysis contains the spongy cancellous bone and acts between joints to dis
 ![[Bone_structure_Diagram.png]] 
 # Bone Tissues
 
-There are two kinds of bone tissue that make up the human skeleton.  Compact (cortical) bone provides the structural rigidity to the system, surrounding less dense Cancellous (Trabeccular) bone filled with red [[Anatomy & Physiology-Bone & Skeleton#Marrow|Marrow]].
+There are two kinds of bone tissue that make up the human skeleton.  Compact (cortical) bone provides the structural rigidity to the system, surrounding less dense Cancellous (Trabeccular) bone filled with red [[Bone#Marrow|Marrow]].
 
 ## Compact
 

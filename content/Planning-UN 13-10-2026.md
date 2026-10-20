@@ -6,7 +6,7 @@ tags:
 ![[Pasted image 20261013091150.png]]
 I genuinely have no idea what this figure could possibly be trying to show me.  What is a?  What is b?  Why are some of the lines wiggly?!?!?  Why is it in polar coords!
 
-Considerations of where it is likely that the tumour has spread, e.g. cropping away from [[Anatomy & Physiology-Bone & Skeleton|Bone]].  In the [[Brain|Brain]] It is unlikely that the tumour has spread to the other hemisphere. 
+Considerations of where it is likely that the tumour has spread, e.g. cropping away from [[Bone|Bone]].  In the [[Brain|Brain]] It is unlikely that the tumour has spread to the other hemisphere. 
 
 Updated terminology for target volumes includes the type of disease (tumour, nodes, mets).  And is intended to describe the method of identification and the former dose delivered.
 

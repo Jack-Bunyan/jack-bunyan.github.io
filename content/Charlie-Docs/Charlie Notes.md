@@ -12,7 +12,7 @@ tags:
 
 | Diagnostic                                                                          | Anatomy & Physiology                                            | Technical                                                                                     |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [[Amyloid]]                                                                         | [[Anatomy & Physiology-Bone & Skeleton]]                        | [[Calibrators/Monitors]]                                                                      |
+| [[Amyloid]]                                                                         | [[Bone]]                        | [[Calibrators/Monitors]]                                                                      |
 | [[Bone Marrow]]                                                                     | [[Anatomy & Physiology-Heart]]                                  | [[CT\|Computed Tomography (CT)]]                                                              |
 | [[Chylothorax]]                                                                     | [[Anatomy & Physiology-Kidneys]]                                | [[Gamma Cameras, Classical and Solid State#Solid State\|CZT Gamma Camera]]                    |
 | [[DaTScan]]                                                                         | [[Iodine#Biodistribution of Iodine\|Biodistribution Of Iodine]] | [[IRR & IRMER Regulations]]                                                                   |

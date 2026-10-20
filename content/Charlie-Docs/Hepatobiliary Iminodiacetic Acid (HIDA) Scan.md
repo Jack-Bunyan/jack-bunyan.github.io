@@ -72,7 +72,7 @@ The biliary system refers to bile production, secretion and storage via the live
 - For patients being investigated for suspected biliary atresia, pre-treat with 5mg/kg/day of Phenobarbitone for 5 days before the appointment.
 	- Phenobarbitone is primarily used to treat seizures, however it is used in this case to relax gut muscles in preparation for the test
 - For patients being investigated for suspected Sphincter of Oddi Dysfunction it may be necessary to pre-treat with sincalide over 10 minutes. The infusion should be completed 15 minutes prior to radiopharmaceutical administration (i.e. the radiopharmaceutical is administered 15 minutes after the end of the sincalide infusion).
-	- See [Sphincter of Oddi Dysfunction](/p/610c0cf71e394b9daebf9b1fcc9ed85e?pvs=25#d3e3a79f7613455a97d37b2da76c9b7f)
+	- See Sphincter of Oddi Dysfunction
 - For patients undergoing Calogen studies, check the patient is not allergic to peanuts. If they are, do not proceed with the study without permission from the ARSAC licence holder.
 	- Calogen is not suitable for those with galactosaemia, a condition meaning the body’s enzymes have an issue breaking down the sugar galactose
 
